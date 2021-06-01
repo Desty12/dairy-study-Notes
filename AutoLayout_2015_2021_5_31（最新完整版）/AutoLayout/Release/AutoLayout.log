@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SimplifyCurve.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AutoLayout.vcxproj -> K:\XXH\AutoLayout_2015_11_21\Win32\Release\AutoLayout.exe
